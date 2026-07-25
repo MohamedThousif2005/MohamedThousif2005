@@ -46,17 +46,15 @@ public class MohamedThousif {
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <div align="center">
 
-<a href="https://github.com/MohamedThousif2005/JobPortalAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedThousif2005&repo=JobPortalAI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/MohamedThousif2005/AttendTrack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedThousif2005&repo=AttendTrack&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/MohamedThousif2005/Payanam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedThousif2005&repo=Payanam&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🤖 JobPortalAI](https://github.com/MohamedThousif2005/JobPortalAI) | AI-powered career platform with resume analysis, mock interviews & roadmaps | React · Spring Boot · Gemini API |
+| [📋 AttendTrack](https://github.com/MohamedThousif2005/AttendTrack) | Smart attendance & academic management system with role-based access | React · Spring Boot · MySQL |
+| [🚌 Payanam](https://github.com/MohamedThousif2005/Payanam) | Unified travel companion — bus, train, flight & rental in one app | React · Spring Boot · MySQL |
 
 </div>
 
@@ -75,11 +73,11 @@ public class MohamedThousif {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedThousif2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedThousif2005&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%" />
 
 </div>
 
