@@ -62,10 +62,14 @@ public class MohamedThousif {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedThousif2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedThousif2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedThousif2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedThousif2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedThousif2005&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="60%" />
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MohamedThousif2005&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="60%" />
 
 </div>
 
